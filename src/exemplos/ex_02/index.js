@@ -2,7 +2,7 @@ import { View, Text, Image } from 'react-native';
 
 import Mensagem from './mensagem';
 
-import logo from '../../assets/002-1-react-native.png'; 
+import logo from '../../../assets/002-1-react-native.png'; 
 
 import styles from './styles';
 

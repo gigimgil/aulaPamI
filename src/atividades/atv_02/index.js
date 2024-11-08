@@ -6,7 +6,7 @@ import logo from '../../../assets/002-1-react-native.png';
 
 import styles from './styles';
 
-export default function Exemplo2 () { 
+export default function Atividade2 () { 
 
     return(
         <View style={styles.container}>
